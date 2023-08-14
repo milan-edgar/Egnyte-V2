@@ -1,0 +1,2 @@
+@echo Off
+"%programfiles(x86)%\Egnyte Connect\EgnyteClient.exe" -command add -l "GRP-Reporting-IFRS16" -d "Chalhoub" -sso use_sso -t I -m "/Shared/Accounting/Group Reporting/30 IFRS 16" -c connect_immediately
